@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1" >
     <test name="Company" >
         <classes>
-            <class name="TestClass"></class>
+            <class name="io.stuffhub.test.TestClass"></class>
         </classes>
     </test>
 </suite>
